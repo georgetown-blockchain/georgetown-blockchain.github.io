@@ -4851,10 +4851,7 @@ figcaption {
 .logo-strip-full-width-container {
   position: relative;
   z-index: 2;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
+  display: none;
   overflow: hidden;
   padding-top: 50px;
   padding-bottom: 74px;
